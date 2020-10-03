@@ -1,7 +1,9 @@
 ;To build and run this use 'run.bat' in root folder. 
 ;You will need CSpect/sjasmplus/hdfmonkey/ZX roms and sdcard img
 ;See my videos if you wish to copy my exact setup
-;or read the contents of run.bat/build.bat for the file locations that are used
+;	or read the contents of run.bat/build.bat for the file locations that are used
+
+;This 'main.asm' can be left unmodified. Start writing code in 'game.asm'
 
 
 
